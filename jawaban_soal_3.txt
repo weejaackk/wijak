@@ -1,0 +1,3 @@
+Fork merupakan perintah yang dapat membuat salinan repository punya orang lain ke akun github milik kita sehingga kita dapat mengedit repository tanpa memberi pengaruh pada repository asli. Ini dapat dilakukan dengan mengeklik tombol "Fork" pada page repository yang ingin disalin.
+
+Pull request adalah perintah yang melakukan permintaan izin untuk melakukan menggabungkan perubahan pada Fork Repository ke repository asal. Ini dapat dilakukan dengan mengeklik "Pull Request" pada page repository asli dan pemilik repository asli akan melihat perubahan yang dilakukan dan menyetujui penggabungan bila dirasa sesuai.

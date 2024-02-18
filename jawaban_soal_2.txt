@@ -1,0 +1,1 @@
+Git rebase adalah perintah yang berfungsi untuk menduplikasi atau menggabungkan serangkai commit dari satu cabang ke cabang yang lain. Perintah ini dapat membuat history repository lebih terangkai. Namun, jika terjadi konflik, akan sulit untuk memperbaiki konflik tersebut.
